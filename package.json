@@ -1,0 +1,11 @@
+{
+  "name": "localstack-testing",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1435.0"
+  }
+}
